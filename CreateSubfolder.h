@@ -1,7 +1,5 @@
 /* create subfolder for results saving.
 
-   - Editor: Yahui Liu.
-   - Data:   2016-01-27
    - Email:  yahui.cvrs@gmail.com
    - Address: Computer Vision and Remote Sensing(CVRS) Lab, Wuhan University.
  */
